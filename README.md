@@ -1,2 +1,2 @@
-# possibilties_list
+# possibility_list
  
